@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+transformers
+lightgbm
+scikit-learn
+joblib
+opencv-python-headless
+pillow
+numpy
+pandas
+requests
